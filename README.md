@@ -9,7 +9,7 @@
 
 ## Tech Stack
 * Java, Python
-* HTML, CSS, JavaScript, Bootstrap, React
+* HTML, CSS, JavaScript
 * MySQL
 * Visual Studio Code, Eclipse
 
