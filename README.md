@@ -8,9 +8,10 @@
 * I am persuing a position in Software Engineering by ways of a Summer Internship
 
 ## Tech Stack
-* Java, Python
+* Java, TypeScript, Python
 * HTML, CSS, JavaScript
-* MySQL
+* MySQL, MongoDB
 * Visual Studio Code, Eclipse
+* Mac, Linux, Windows
 
 ### This is a Work in Progress!
