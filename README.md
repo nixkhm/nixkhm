@@ -13,5 +13,3 @@
 * MySQL, MongoDB
 * Visual Studio Code, Eclipse
 * Mac, Linux, Windows
-
-### This is a Work in Progress!
