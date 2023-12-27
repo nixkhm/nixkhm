@@ -2,14 +2,12 @@
 
 ## About Me
 
-* I am a Junior currently studying Computer Science at St. John's University
+* I am a Senior currently studying Computer Science at St. John's University
 * I love developing my own projects to gain a higher sense of knowledge in my field
-* I am currently undertaking an Internsip within the fields of Technology & Support
-* I am persuing a position in Software Engineering by ways of a Summer Internship
 
 ## Tech Stack
 * Java, TypeScript, Python
-* HTML, CSS, JavaScript
-* MySQL, MongoDB
+* React, Tailwind, Next,JS
+* MySQL, MongoDB, Supabase
 * Visual Studio Code, Eclipse
 * Mac, Linux, Windows
